@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.1-alpha](https://github.com/instill-ai/vdp/compare/v0.14.0-alpha...v0.14.1-alpha) (2023-09-26)
+
+
+### Bug Fixes
+
+* **makefile:** fix `helm-integration-test-latest` bug ([#361](https://github.com/instill-ai/vdp/issues/361)) ([1db4632](https://github.com/instill-ai/vdp/commit/1db4632ff2548db58ead50ffce5f96f4eb8d2ea3))
+
 ## [0.14.0-alpha](https://github.com/instill-ai/vdp/compare/v0.13.0-alpha...v0.14.0-alpha) (2023-09-13)
 
 
